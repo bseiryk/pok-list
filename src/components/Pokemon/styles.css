@@ -1,0 +1,9 @@
+.pokemon-card {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+}
+
+.pokemon-card--label {
+  margin-left: 10px;
+}
